@@ -10,9 +10,9 @@
 ### virtual code.
 ### Jupyter notebook.
 ### Python 3.11.0 or higher.
-### MySQL
+### postgreSQL
 ## 2.Requirement Libraries to Install
-### pip install pandas numpy os json requests subprocess mysql.connector sqlalchemy pymysql streamlit plotly.express
+### pip install pandas numpy os json requests subprocess postgreSQL.connector and streamlit plotly.express
 ## 3.Import Libraries
 ### clone libraries
  ### . import requests
