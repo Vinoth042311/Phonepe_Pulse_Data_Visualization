@@ -17,33 +17,33 @@
 ### clone libraries
  ### . import requests
  
- ### pandas, numpy and file handling libraries
+ ## pandas, numpy and file handling libraries
 
 ### . import pandas as pd
 ### . import numpy as np
 ### . import os
 ### . import json
 
-### postgreSQL libraries
+## postgreSQL libraries
 ### . import psycopg2
 
-Dash board libraries
+## Dash board libraries
 
 ### . import streamlit as st
 ### . import plotly.express as px
 ## 4. E T L Process
 ### a) Extract data
 ### . Initially, we Clone the data from the Phonepe GitHub repository by using Python libraries. https://github.com/PhonePe/pulse.git
-### b) Process and Transform the data
+## b) Process and Transform the data
 ### . Process the clone data by using Python algorithms and transform the processed data into DataFrame formate.
-### c) Load data
+## c) Load data
 ### . Finally, create a connection to the postgreSQL server and create a Database and stored the Transformed data in the postgreSQL server 
 ## 5. E D A Process and Frame work
-### a) Access MySQL DB
+## a) Access MySQL DB
 ### . Create a connection to the postgreSQL server and access the specified postgreSQL DataBase 
-### b) Filter the data
+## b) Filter the data
 ### . Filter and process the collected data depending on the given requirements by using postgreSQL queries
-### c) Visualization
+## c) Visualization
 ### . Finally, create a Dashboard by using Streamlit and applying selection and dropdown options on the Dashboard and show the output are Geo visualization, bar chart, and Dataframe Table
 ## User Guide
 ### Step 1.
