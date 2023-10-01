@@ -6,15 +6,15 @@
 ### We create a web app to analyse the Phonepe transaction and users depending on various Years, Quarters, States, and Types of transaction and give a Geographical and Geo visualization output based on given requirements
 
 ## Developer Guide
-### 1.Tools
-# virtual code.
-# Jupyter notebook.
-# Python 3.11.0 or higher.
-# MySQL
+## 1.Tools
+### virtual code.
+### Jupyter notebook.
+### Python 3.11.0 or higher.
+### MySQL
 ## 2.Requirement Libraries to Install
-# pip install pandas numpy os json requests subprocess mysql.connector sqlalchemy pymysql streamlit plotly.express
+### pip install pandas numpy os json requests subprocess mysql.connector sqlalchemy pymysql streamlit plotly.express
 ## 3.Import Libraries
-# clone libraries
+### clone libraries
 
 import requests
 import subprocess
