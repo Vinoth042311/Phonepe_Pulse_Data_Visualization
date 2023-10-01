@@ -16,9 +16,9 @@
 ## 3.Import Libraries
 ### clone libraries
 
-import requests
-import subprocess
-pandas, numpy and file handling libraries
+  ### import requests
+  ### import subprocess
+  ### pandas, numpy and file handling libraries
 
 import pandas as pd
 import numpy as np
