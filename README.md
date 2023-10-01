@@ -44,7 +44,7 @@ Dash board libraries
 ### b) Filter the data
 ### . Filter and process the collected data depending on the given requirements by using postgreSQL queries
 ### c) Visualization
-### . Finally, create a Dashboard by using Streamlit and applying selection and dropdown options on the Dashboard and show the output are Geo visualization, bar chart, and ### Dataframe Table
+### . Finally, create a Dashboard by using Streamlit and applying selection and dropdown options on the Dashboard and show the output are Geo visualization, bar chart, and Dataframe Table
 ## User Guide
 ### Step 1.
 ### . Select any one option fron All India or State wise or Top Ten categories.
