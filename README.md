@@ -16,8 +16,7 @@
 ## 3.Import Libraries
 ### clone libraries
 
-  ### import requests
-  ### import subprocess
+ #. ### import requests
   ### pandas, numpy and file handling libraries
 
 import pandas as pd
